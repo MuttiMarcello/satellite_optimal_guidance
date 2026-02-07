@@ -1,0 +1,4 @@
+- 'EML1_periodic_halo_orbit.png' - Periodic Earth-Moon L1 orbit
+- 'EML1_periodic_halo_orbits_family.png' - Periodic Earth-Moon L1 orbits family, for varying z-values in the rotating frame
+- 'apophis_impactor_optimal_maneuver.png' - Apophis impactor optimal maneuver sequence
+- 'TO_Earth_Venus_transfers.png' - Low-thrust time-optimal Earth-Venus transfers, 500mN and 800mN thrust

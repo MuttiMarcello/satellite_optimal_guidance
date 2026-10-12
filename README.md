@@ -8,7 +8,7 @@ This repository contains three simulation-based studies developed as part of a u
 
 The work is organized in three parts:
 1. Characterization and continuation of Earth-Moon L1 Halo orbits family
-2. Optimization of impulsive guidance Aphophis asteroid impactor mission
+2. Optimization of impulsive guidance Apophis asteroid impactor mission
 3. Time-of-flight optimization of continuous guidance Earth-Venus transfer
 
 ## Results and Validation
